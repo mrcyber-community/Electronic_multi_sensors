@@ -1,4 +1,4 @@
-# Lesson 01: The basic sensors -> Vibration / Accostic / Temporature
+# Lesson 01: The basic sensors -> vibration, acoustic, and temperature
 
 This is the basic lesson that build the sensor detection including vibration, accostic, and temporature by using:
 - Arduino-UNO-R4-WiFi
